@@ -1,0 +1,2 @@
+Accuracy,Precision,Recall,F1 Score,AUROC,Average Precision,Sensitivity,Specificity,Balanced Accuracy,True Negative,False Positive,False Negative,True Positive
+0.6419753086419753,0.6419753086419753,1.0,0.7819548872180451,,,1.0,0.0,0.5,0,174,0,312

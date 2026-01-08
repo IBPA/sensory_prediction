@@ -1,0 +1,15 @@
+{
+    "accuracy": 0.5969696969696969,
+    "precision": 0.5969696969696969,
+    "recall": 1.0,
+    "f1": 0.7476280834914611,
+    "auroc": null,
+    "ap": null,
+    "sensitivity": 1.0,
+    "specificity": 0.0,
+    "balanced_accuracy": 0.5,
+    "tn": 0,
+    "fp": 133,
+    "fn": 0,
+    "tp": 197
+}

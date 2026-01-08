@@ -1,0 +1,3 @@
+*.csv
+processed/*.csv
+processed/n_judges_removed/*.csv
