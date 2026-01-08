@@ -1,4 +1,9 @@
-data/**/*.csv
+data/*.csv
+models/*.ps1
+models/*.png
+models/*.json
+share/  
+
 _OLD_FILES
 
 # Byte-compiled / optimized / DLL files
