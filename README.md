@@ -1,6 +1,6 @@
 # AI-driven prediction of consumer liking of coffee from sensory data 
 
-Model weights and code for generating figures for "AI-driven prediction of consumer liking of coffee from sensory data "
+Model weights and code for generating figures for "AI-driven prediction of consumer liking of coffee from sensory data"
 
 Paper available at: https://www.nature.com/articles/s41538-026-00779-7
 
